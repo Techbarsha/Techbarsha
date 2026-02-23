@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Techbarsha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Techbarsha&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
@@ -42,14 +42,14 @@
 ### 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Techbarsha&theme=dark&hide_border=false" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Techbarsha&theme=radical&hide_border=true" height="200"/>
 </div>
 
 ---
 
 ### 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -68,7 +68,7 @@
 
 ### 🎨 Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
@@ -79,7 +79,7 @@
 
 ### 💻 Operating System
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </div>
@@ -89,14 +89,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techbarsha&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techbarsha&layout=compact&theme=dracula"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Techbarsha&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techbarsha&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techbarsha&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techbarsha&theme=github-compact&hide_border=true"/>
 </div>
 
 ---
