@@ -26,8 +26,6 @@
 
 <h1 align="center">Hey there 👋</h1>
 
----
-
 ### 👩‍💻 About Me
 
 - 🎓 Graduate – **BSc in Information Technology**  
