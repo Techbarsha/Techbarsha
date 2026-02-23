@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=Techbarsha&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </div>
 
----
+
 
 <h1 align="center">Hey there 👋</h1>
 
